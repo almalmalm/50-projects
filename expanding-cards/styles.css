@@ -34,3 +34,11 @@ body{
     margin-right: 10px;
     cursor: pointer;
 }
+
+.text {
+    color: #ffffff;
+    font-size: 5vh;
+    position: relative;
+    bottom: 15vh;
+    left: 3vw;
+}
