@@ -19,11 +19,11 @@ body{
 }
 
 .card-item {
-    width: 110px;
+    width: 6vw;
 }
 
 .opened {
-    width: 850px;
+    width: 60vw;
 }
 
 .cards img{
